@@ -25,7 +25,7 @@ export default function RootLayout({
         <nav className="bg-black px-4">
           <div className="container mx-auto flex justify-center gap-6 text-sm">
             <Link href="/" className="hover:text-[var(--accent)]">Home</Link>
-            <Link href="/contact" className="hover:text-[var(--accent)]">Contact</Link>
+            <Link href="https://maxliu.me/blog" className="hover:text-[var(--accent)]">Blog</Link>
           </div>
         </nav>
         {children}
