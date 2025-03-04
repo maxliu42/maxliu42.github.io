@@ -23,7 +23,7 @@ export default function Home() {
           I&apos;m passionate about software development, machine learning, and game design.
           Currently exploring opportunities in full-stack development and AI research.</p>
         <p className="text-center text-sm">
-          If you're interested, you can read more at <Link href="https://maxliu.me/blog" target="_blank" className="text-blue-500">my blog</Link>.
+          If that interests you, you can read more at <Link href="https://maxliu.me/blog" target="_blank" className="text-blue-500">my blog</Link>.
         </p>
       </section>
 
