@@ -36,7 +36,7 @@ export default function Home() {
           <div>
             <h2 className="text-xl font-bold">NoteFlip <span className="text-xs italic font-normal">FastAPI, PostgreSQL, React Native, Next.js, Google Cloud Vision, OpenAI API</span></h2>
             <div className="text-sm">
-              <Link href="https://noteflip.io" className="mx-1">{`[web -- site temporarily down, apologies]`}</Link>
+              <Link href="https://noteflip.io" target="_blank" className="mx-1">{`[web -- site temporarily down, apologies]`}</Link>
               {/* <Link href="https://github.com/maxliu42/noteflip" target="_blank" className="mx-1">{`{GitHub}`}</Link> */}
             </div>
           </div>
@@ -55,7 +55,7 @@ export default function Home() {
           <div>
             <h2 className="text-xl font-bold">mnk-Game <span className="text-xs italic font-normal">React, TypeScript, WebSocket</span></h2>
             <div className="text-sm">
-              <Link href="https://maxliu.me/mnk-game/" className="mx-1">{`[web]`}</Link>
+              <Link href="https://maxliu.me/mnk-game/" target="_blank" className="mx-1">{`[web]`}</Link>
               <Link href="https://github.com/maxliu42/mnk-game " target="_blank" className="mx-1">{`{GitHub}`}</Link>
             </div>
           </div>
@@ -73,7 +73,8 @@ export default function Home() {
           <div>
             <h2 className="text-xl font-bold">TextWolfram <span className="text-xs italic font-normal">React, Python, Twilio, REST APIs</span></h2>
             <div className="text-sm">
-              <Link href="https://tranq88.github.io/text-wolfram/" className="mx-1">{`[web]`}</Link>
+              <Link href="https://tranq88.github.io/text-wolfram/" target="_blank" className="mx-1">{`[web]`}</Link>
+              <Link href="https://www.youtube.com/watch?v=_lqYMOJTqRk" target="_blank" className="mx-1">{`[video demo]`}</Link>
               <Link href="https://github.com/tranq88/text-wolfram/tree/main" target="_blank" className="mx-1">{`{GitHub}`}</Link>
             </div>
           </div>
@@ -92,7 +93,7 @@ export default function Home() {
           <div>
             <h2 className="text-xl font-bold">Woodlands CS Website <span className="text-xs italic font-normal">Jekyll, Ruby, Pyodide, GitHub Pages</span></h2>
             <div className="text-sm">
-              <Link href="https://woodlands.codes/" className="mx-1">{`[web]`}</Link>
+              <Link href="https://woodlands.codes/" target="_blank"className="mx-1">{`[web]`}</Link>
               <Link href="https://github.com/maxliu42/woodlandscodesnew" target="_blank" className="mx-1">{`{GitHub}`}</Link>
             </div>
           </div>
@@ -109,7 +110,7 @@ export default function Home() {
           <div>
             <h2 className="text-xl font-bold">Bee-ware! <span className="text-xs italic font-normal">React, Phaser 3</span></h2>
             <div className="text-sm">
-              <Link href="https://maxliu.me/bee-ware/" className="mx-1">{`[web]`}</Link>
+              <Link href="https://maxliu.me/bee-ware/" target="_blank" className="mx-1">{`[web]`}</Link>
               <Link href="https://github.com/maxliu42/bee-ware" target="_blank" className="mx-1">{`{GitHub}`}</Link>
             </div>
           </div>
