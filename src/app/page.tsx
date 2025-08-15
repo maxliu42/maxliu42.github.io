@@ -93,7 +93,7 @@ export default function Home() {
           <div>
             <h2 className="text-xl font-bold">Woodlands CS Website <span className="text-xs italic font-normal">Jekyll, Ruby, Pyodide, GitHub Pages</span></h2>
             <div className="text-sm">
-              <Link href="https://woodlands.codes/" target="_blank"className="mx-1">{`[web]`}</Link>
+              <Link href="https://maxliu.me/woodlandscodesnew/" target="_blank"className="mx-1">{`[web]`}</Link>
               <Link href="https://github.com/maxliu42/woodlandscodesnew" target="_blank" className="mx-1">{`{GitHub}`}</Link>
             </div>
           </div>
