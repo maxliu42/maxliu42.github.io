@@ -24,7 +24,7 @@ export default function Home() {
                     full-stack development and AI research.
                 </p>
                 <p className="text-center text-sm">
-                    Sometimes I also {" "}
+                    Sometimes I also{" "}
                     <Link href="https://maxliu.me/blog" target="_blank" className="text-blue-500">
                         blog
                     </Link>
