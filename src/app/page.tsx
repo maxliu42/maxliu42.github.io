@@ -17,8 +17,7 @@ export default function Home() {
             <section className="section">
                 <h2 className="text-xl font-bold text-center mb-4">About Me</h2>
                 <p className="text-center text-sm mb-2">
-                    Hi! I&apos;m Max, a third year Computer Science student at the University of Toronto and currently
-                    an Inference Consoles Engineer Intern at Cerebras.
+                    Hi! I&apos;m Max, a Computer Science student at the University of Toronto and Inference Consoles Engineer Intern at Cerebras.
                 </p>
                 <p className="text-center text-sm">
                     I&apos;m passionate about software development and game design. Currently exploring opportunities in
