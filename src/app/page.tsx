@@ -27,9 +27,9 @@ export default function Home() {
                 <p className="text-center text-sm">
                     Sometimes I also{" "}
                     <Link href="https://maxliu.me/blog" target="_blank" className="text-blue-500">
-                        blog
-                    </Link>
-                    about what I&apos;ve been listening to.
+                        blog about
+                    </Link>{" "}
+                    what I&apos;ve been listening to.
                 </p>
             </section>
 
