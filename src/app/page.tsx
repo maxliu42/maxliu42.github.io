@@ -21,8 +21,8 @@ export default function Home() {
                     an Inference Consoles Engineer Intern at Cerebras.
                 </p>
                 <p className="text-center text-sm">
-                    I&apos;m passionate about software development and and game design. Currently
-                    exploring opportunities in full-stack development and AI research.
+                    I&apos;m passionate about software development and game design. Currently exploring opportunities in
+                    full-stack development and AI research.
                 </p>
                 <p className="text-center text-sm">
                     If that interests you, you can read more at{" "}
