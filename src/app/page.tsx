@@ -24,11 +24,11 @@ export default function Home() {
                     full-stack development and AI research.
                 </p>
                 <p className="text-center text-sm">
-                    If that interests you, you can read more at{" "}
+                    Sometimes I also {" "}
                     <Link href="https://maxliu.me/blog" target="_blank" className="text-blue-500">
-                        my blog
+                        blog
                     </Link>
-                    .
+                    about what I've been listening to.
                 </p>
             </section>
 
